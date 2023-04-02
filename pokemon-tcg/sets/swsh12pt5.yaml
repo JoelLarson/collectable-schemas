@@ -1,0 +1,922 @@
+---
+id: swsh12pt5
+name: Crown Zenith
+locales:
+  # https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/swsh125_web_cardlist_en.pdf
+  - id: en
+    cards:
+      - id: 1
+        name: Oddish
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 2
+        name: Gloom
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 3
+        name: Bellossom
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 4
+        name: Tangela
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 5
+        name: Tangrowth
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 6
+        name: Scyther
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 7
+        name: Sunkern
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 8
+        name: Yanma
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 9
+        name: Yanmega
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 10
+        name: Kricketot
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 11
+        name: Cherubi
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 12
+        name: Carnivine
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 13
+        name: Leafeon V
+        variants:
+          - standard-set-foil
+
+      - id: 14
+        name: Leafeon VSTAR
+        variants:
+          - standard-set-foil
+
+      - id: 15
+        name: Grubbin
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 16
+        name: Zarude
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 17
+        name: Calyrex
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 18
+        name: Charizard V
+        variants:
+          - standard-set-foil
+
+      - id: 19
+        name: Charizard VSTAR
+        variants:
+          - standard-set-foil
+
+      - id: 20
+        name: radiant Charizard
+        variants:
+          - standard-set-foil
+
+      - id: 21
+        name: Entei
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 22
+        name: Simisear V
+        variants:
+          - standard-set-foil
+
+      - id: 23
+        name: Simisear VSTAR
+        variants:
+          - standard-set-foil
+
+      - id: 24
+        name: Larvesta
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 25
+        name: Volcarona
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 26
+        name: Volcanion
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 27
+        name: Salandit
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 28
+        name: Salazzle
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 29
+        name: Seel
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 30
+        name: Galarian Mr. Mime
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 31
+        name: Wailmer
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 32
+        name: Wailord
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 33
+        name: Corphish
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 34
+        name: Snorunt
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 35
+        name: Luvdisc
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 36
+        name: Kyogre
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 37
+        name: Kyogre V
+        variants:
+          - standard-set-foil
+
+      - id: 38
+        name: Glaceon V
+        variants:
+          - standard-set-foil
+
+      - id: 39
+        name: Shinx
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 40
+        name: Shinx
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 41
+        name: Luxio
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 42
+        name: Luxio
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 43
+        name: Luxray
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 44
+        name: Luxray
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 45
+        name: Rotom V
+        variants:
+          - standard-set-foil
+
+      - id: 46
+        name: Rotom VSTAR
+        variants:
+          - standard-set-foil
+
+      - id: 47
+        name: Emolga
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 48
+        name: Eelektrik
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 49
+        name: Helioptile
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 50
+        name: Heliolisk
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 51
+        name: Radiant Charjabug
+        variants:
+          - standard-set-foil
+
+      - id: 52
+        name: Zeraora
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 53
+        name: Zeraora V
+        variants:
+          - standard-set-foil
+
+      - id: 54
+        name: Zeraora VMAX
+        variants:
+          - standard-set-foil
+
+      - id: 55
+        name: Zeraora VSTAR
+        variants:
+          - standard-set-foil
+
+      - id: 56
+        name: Pincurchin
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 57
+        name: Exeggcute
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 58
+        name: Exeggutor
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 59
+        name: Mewtwo
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 60
+        name: Mew V
+        variants:
+          - standard-set-foil
+
+      - id: 61
+        name: Girafarig
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 62
+        name: Lunatone
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 63
+        name: Dusclops
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 64
+        name: Tapu Lele
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 65
+        name: Hatterene V
+        variants:
+          - standard-set-foil
+
+      - id: 66
+        name: Hatterene VMAX
+        variants:
+          - standard-set-foil
+
+      - id: 67
+        name: Enamorus
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 68
+        name: Graveler
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 69
+        name: Solrock
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 70
+        name: Baltoy
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 71
+        name: Riolu
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 72
+        name: Pancham
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 73
+        name: Rockruff
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 74
+        name: Lycanroc
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 75
+        name: Koffing
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 76
+        name: Absol
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 77
+        name: Purrloin
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 78
+        name: Liepard
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 79
+        name: Krokorok
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 80
+        name: Pangoro
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 81
+        name: Skrelp
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 82
+        name: Dragalge
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 83
+        name: Hoopa
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 84
+        name: Galarian Meowth
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 85
+        name: Galarian Perrserker
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 86
+        name: Scizor
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 87
+        name: Aron
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 88
+        name: Lairon
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 89
+        name: Aggron
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 90
+        name: Metang
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 91
+        name: Pawniard
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 92
+        name: Pawniard
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 93
+        name: Bisharp
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 94
+        name: Zacian
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 95
+        name: Zacian V
+        variants:
+          - standard-set-foil
+
+      - id: 96
+        name: Zacian VSTAR
+        variants:
+          - standard-set-foil
+
+      - id: 97
+        name: Zamazenta
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 98
+        name: Zamazenta V
+        variants:
+          - standard-set-foil
+
+      - id: 99
+        name: Zamazenta VSTAR
+        variants:
+          - standard-set-foil
+
+      - id: 100
+        name: Rayquaza V
+        variants:
+          - standard-set-foil
+
+      - id: 101
+        name: Rayquaza VMAX
+        variants:
+          - standard-set-foil
+
+      - id: 102
+        name: Rayquaza VMAX
+        variants:
+          - standard-set-foil
+
+      - id: 103
+        name: Duraludon V
+        variants:
+          - standard-set-foil
+
+      - id: 104
+        name: Duraludon VMAX
+        variants:
+          - standard-set-foil
+
+      - id: 105
+        name: Radiant Eternatus
+        variants:
+          - standard-set-foil
+
+      - id: 106
+        name: Tauros
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 107
+        name: Ditto
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 108
+        name: Eevee V
+        variants:
+          - standard-set-foil
+
+      - id: 109
+        name: Snorlax
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 110
+        name: Starly
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 111
+        name: Bidoof
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 112
+        name: Chatot
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 113
+        name: Regigigas V
+        variants:
+          - standard-set-foil
+
+      - id: 114
+        name: Regigigas VSTAR
+        variants:
+          - standard-set-foil
+
+      - id: 115
+        name: Shaymin
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 116
+        name: Stoutland V
+        variants:
+          - standard-set-foil
+
+      - id: 117
+        name: Yungoos
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 118
+        name: Gumshoos
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 119
+        name: Oranguru
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 120
+        name: Greedent V
+        variants:
+          - standard-set-foil
+
+      - id: 121
+        name: Wooloo
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 122
+        name: Dubwool
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 123
+        name: Bea
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 124
+        name: Bede
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 125
+        name: Crushing Hammer
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 126
+        name: Digging Duo
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 127
+        name: Energy Retrieval
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 128
+        name: Energy Search
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 129
+        name: Energy Switch
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 130
+        name: Friends in Hisui
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 131
+        name: Friends in Sinnoh
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 132
+        name: Great Ball
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 133
+        name: Hop
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 134
+        name: Leon
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 135
+        name: Lost Vacuum
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 136
+        name: Nessa
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 137
+        name: Pok\u00e9 Ball
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 138
+        name: Pok\u00e9mon Catcher
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 139
+        name: Potion
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 140
+        name: Raihan
+        variants:
+          - standard-set-foil
+          - parallel-set
+
+      - id: 141
+        name: Rare Candy
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 142
+        name: Rescue Carrier
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 143
+        name: Sky Seal Stone
+        variants:
+          - standard-set-foil
+
+      - id: 144
+        name: Switch
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 145
+        name: Trekking Shoes
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 146
+        name: Ultra Ball
+        variants:
+          - standard-set
+          - parallel-set
+
+      - id: 147
+        name: "Elesa's Sparkle"
+        variants:
+          - standard-set-foil
+
+      - id: 148
+        name: Friends in Hisui
+        variants:
+          - standard-set-foil
+
+      - id: 149
+        name: Friends in Sinnoh
+        variants:
+          - standard-set-foil
+
+      - id: 150
+        name: "Professor's Research"
+        variants:
+          - standard-set-foil
+
+      - id: 151
+        name: Volo
+        variants:
+          - standard-set-foil
+
+      - id: 152
+        name: Grass Energy
+        variants:
+          - standard-set-foil
+
+      - id: 153
+        name: Fire Energy
+        variants:
+          - standard-set-foil
+
+      - id: 154
+        name: Water Energy
+        variants:
+          - standard-set-foil
+
+      - id: 155
+        name: Lightning Energy
+        variants:
+          - standard-set-foil
+
+      - id: 156
+        name: Psychic Energy
+        variants:
+          - standard-set-foil
+
+      - id: 157
+        name: Fighting Energy
+        variants:
+          - standard-set-foil
+
+      - id: 158
+        name: Darkness Energy
+        variants:
+          - standard-set-foil
+
+      - id: 159
+        name: Metal Energy
+        variants:
+          - standard-set-foil
+
+      # TODO: This is not on the official card list
+      - id: 160
+        name: Pikachu
+        variants:
+          - standard-set-foil
+
+  - id: jp
+    cards: []

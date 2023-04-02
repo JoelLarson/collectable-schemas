@@ -1,0 +1,5 @@
+---
+id: pokemon-tcg
+name: Pokemon Trading Card Game
+sets:
+  - $ref: '/sets/swsh12pt5.yaml'
