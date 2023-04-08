@@ -23,20 +23,9 @@ description: ""
 baseurl: "/collectable-schemas" # the subpath of your site, e.g. /blog
 url: "https://joellarson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-safe: false
-
 # Build settings
 theme: minima
-plugins:
-  - ./_plugins/collectables_generator.rb
-  - jekyll-feed
-  - jekyll-seo-tag
-whitelist:
-  - ./_plugins/collectables_generator.rb
-  - jekyll-feed
-  - jekyll-seo-tag
-
-
+plugins: []
 
 # Exclude from processing.
 # The following items will not be processed, by default.
