@@ -25,7 +25,14 @@ url: "https://joellarson.github.io" # the base hostname & protocol for your site
 
 # Build settings
 theme: minima
-plugins: []
+plugins:
+  - ./_plugins/collectables_generator.rb
+  - jekyll-feed
+  - jekyll-seo-tag
+whitelist:
+  - ./_plugins/collectables_generator.rb
+  - jekyll-feed
+  - jekyll-seo-tag
 
 
 
