@@ -2,6 +2,10 @@
 layout: home
 ---
 
-## Pokemon Trading Card Game
+# Collectables
 
-[Crown Zenith](./collectables/pokemon-tcg)
+<ul>
+{% for collectables_entry in page['collectables_list'] %}
+<li><a href="collectables/{{ collectables_entry['id'] }}">{{ collectables_entry['name'] }}</a></li>
+{% endfor %}
+</ul>

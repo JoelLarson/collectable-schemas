@@ -1,6 +1,13 @@
 ---
 id: swsh12pt5
 name: Crown Zenith
+variants:
+  - id: standard-set
+    name: Standard Set
+  - id: standard-set-foil
+    name: Standard Set Foil
+  - id: parallel-set
+    name: Parallel Set
 locales:
   # https://assets.pokemon.com/assets/cms2/pdf/trading-card-game/checklist/swsh125_web_cardlist_en.pdf
   - id: en
