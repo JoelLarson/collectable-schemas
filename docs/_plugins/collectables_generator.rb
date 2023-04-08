@@ -64,6 +64,10 @@ class CollectablesGenerator < Jekyll::Generator
             end
         end
 
+        print "[ DEBUG ] Adding the following pages for Collectables: \n"
+
+        pp pages
+
         site.pages.concat pages
     end
 end
